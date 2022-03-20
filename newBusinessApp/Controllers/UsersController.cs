@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using newBusinessApp.Data;
 using newBusinessApp.Entities;
@@ -17,8 +18,10 @@ namespace newBusinessApp.Controllers
         }
 
         [HttpGet]
+        [AllowAnonymous]
         public async Task<ActionResult<IEnumerable<AppUser>>> GetUsers() => await _context.Users.ToListAsync();
 
+        [Authorize]
         [HttpGet("{id}")]
         public ActionResult<AppUser> GetUserById(int id) => _context.Users.Find(id);
     }
