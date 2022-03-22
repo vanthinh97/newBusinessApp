@@ -5964,23 +5964,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\XuanVinh\\.nuget\\packages\\": {},
+    "C:\\Users\\thinh\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\XuanVinh\\Desktop\\newBusinessApp\\newBusinessApp\\newBusinessApp.csproj",
+      "projectUniqueName": "C:\\Users\\thinh\\OneDrive\\Desktop\\newBusinessApp\\newBusinessApp\\newBusinessApp.csproj",
       "projectName": "newBusinessApp",
-      "projectPath": "C:\\Users\\XuanVinh\\Desktop\\newBusinessApp\\newBusinessApp\\newBusinessApp.csproj",
-      "packagesPath": "C:\\Users\\XuanVinh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\XuanVinh\\Desktop\\newBusinessApp\\newBusinessApp\\obj\\",
+      "projectPath": "C:\\Users\\thinh\\OneDrive\\Desktop\\newBusinessApp\\newBusinessApp\\newBusinessApp.csproj",
+      "packagesPath": "C:\\Users\\thinh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thinh\\OneDrive\\Desktop\\newBusinessApp\\newBusinessApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\XuanVinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6066,7 +6066,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

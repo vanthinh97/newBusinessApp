@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using newBusinessApp.Extensions;
+using newBusinessApp.Middleware;
 
 namespace newBusinessApp
 {
@@ -39,10 +40,12 @@ namespace newBusinessApp
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+                ///app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "newBusinessApp v1"));
             }
+
+            app.UseMiddleware<ExceptionMiddleware>();
 
             app.UseHttpsRedirection();
 
