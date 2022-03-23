@@ -257,3 +257,9 @@ C:\Users\thinh\OneDrive\Desktop\newBusinessApp\newBusinessApp\obj\Debug\net5.0\n
 C:\Users\thinh\OneDrive\Desktop\newBusinessApp\newBusinessApp\obj\Debug\net5.0\newBusinessApp.genruntimeconfig.cache
 C:\Users\thinh\OneDrive\Desktop\newBusinessApp\newBusinessApp\obj\Debug\net5.0\ref\newBusinessApp.dll
 C:\Users\thinh\OneDrive\Desktop\newBusinessApp\newBusinessApp\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\thinh\OneDrive\Desktop\newBusinessApp\newBusinessApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\thinh\OneDrive\Desktop\newBusinessApp\newBusinessApp\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\thinh\OneDrive\Desktop\newBusinessApp\newBusinessApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\thinh\OneDrive\Desktop\newBusinessApp\newBusinessApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\thinh\OneDrive\Desktop\newBusinessApp\newBusinessApp\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\thinh\OneDrive\Desktop\newBusinessApp\newBusinessApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
